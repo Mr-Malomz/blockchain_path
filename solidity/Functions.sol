@@ -1,5 +1,5 @@
-//understanding functions, modifiers and visisbilty.
 pragma solidity >=0.7.0 <0.9.0;
+//understanding functions, modifiers and visisbilty.
 
 contract Functions {
     uint value;
